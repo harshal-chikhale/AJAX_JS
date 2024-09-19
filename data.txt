@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14 Pro",
+        "price": "$999",
+        "description": "The latest iPhone with a triple-camera system.",
+        "image": "https://i.imgur.com/VqAXUwz.png"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S22",
+        "price": "$899",
+        "description": "Samsung's flagship phone with an amazing display.",
+        "image": "https://i.imgur.com/jCVE8Ga.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sony WH-1000XM4 Headphones",
+        "price": "$349",
+        "description": "Industry-leading noise-canceling headphones.",
+        "image": "https://i.imgur.com/ayv6SVE.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Apple MacBook Air M2",
+        "price": "$1249",
+        "description": "Apple's latest lightweight and powerful laptop.",
+        "image": "https://i.imgur.com/BLVMIUP.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dell XPS 13",
+        "price": "$1099",
+        "description": "The premium ultrabook with a sleek design and powerful performance.",
+        "image": "https://i.imgur.com/VRumkPA.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Canon EOS R5 Camera",
+        "price": "$3899",
+        "description": "A professional-grade mirrorless camera with stunning image quality.",
+        "image": "https://i.imgur.com/DujcSeZ.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sony PlayStation 5",
+        "price": "$499",
+        "description": "Next-gen gaming console with high-speed SSD and stunning graphics.",
+        "image": "https://i.imgur.com/fOMRxZc.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Xbox Series X",
+        "price": "$499",
+        "description": "Microsoft's flagship console with superior performance and 4K gaming.",
+        "image": "https://i.imgur.com/lHD8lGA.jpg"
+    }
+]
